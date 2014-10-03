@@ -15,6 +15,6 @@ Hello world - It's maptime in LA.
 
 - Jacqui Swartz
 
-- John Wiseman [@lemonodor](http://twitter.com/lemonodor)
+- Chandler Sterling [@chandlersterlin](http://twitter.com/chandlersterlin)
 
 - Machiko Yasuda [@machikoyasuda](http://twitter.com/machikoyasuda)

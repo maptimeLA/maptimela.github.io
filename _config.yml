@@ -2,7 +2,7 @@ baseurl:
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: maptimela.github.io
 github_org: maptimela
 maptime:
   chapter: Maptime Los Angeles
