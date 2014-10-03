@@ -1,4 +1,4 @@
-baseurl: /losangeles
+baseurl:
 permalink: pretty
 markdown: kramdown
 paginate: 5
