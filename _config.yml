@@ -1,0 +1,9 @@
+baseurl: /losangeles
+permalink: pretty
+markdown: kramdown
+paginate: 5
+repo: starter
+github_org: maptimela
+maptime:
+  chapter: Maptime Los Angeles
+  twitter: maptimela
