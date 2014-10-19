@@ -13,8 +13,8 @@ This format will be more common in future meetups.  Hopefully it will also yield
 ## Location:
 Address:
 811 Wilshire Blvd, Suite 1460, Los Angeles, CA
+<script src="https://embed.github.com/view/geojson/maptimeLA/maptimela.github.io/_src/arup.json"></script>
 
-<script src="https://gist.github.com/csterling/215f0f2ed1e34ce2858c"></script>
 
 ## Transit:
 - Rail: 7th Street / Metro Center (Purple, Red, Expo, Blue Lines): Two blocks away

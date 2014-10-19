@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Address":"811 Wilshire Boulevard, Los Angeles, CA 90017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25810730457306,
+          34.049854866955926
+        ]
+      }
+    }
+  ]
+}
