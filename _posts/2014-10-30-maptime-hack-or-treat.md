@@ -13,7 +13,7 @@ This format will be more common in future meetups.  Hopefully it will also yield
 ## Location:
 Address:
 811 Wilshire Blvd, Suite 1460, Los Angeles, CA
-<script src="https://embed.github.com/view/geojson/maptimeLA/maptimela.github.io/master/_src/arup.json"></script>
+<script src="https://embed.github.com/view/geojson/maptimeLA/maptimela.github.io/master/_src/arup.geojson"></script>
 
 
 ## Transit:
