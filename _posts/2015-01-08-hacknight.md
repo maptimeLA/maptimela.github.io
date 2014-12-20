@@ -2,7 +2,7 @@
 layout: event
 category: event
 title: Hack Night in the New Year
-rsvp: http://www.meetup.com/MaptimeLA/events/206466462/
+rsvp: http://www.meetup.com/MaptimeLA/events/219037895/
 ---
 
 Our first meeting of 2015 will be a hack night! Bring a project or an idea and bring it to life! 
