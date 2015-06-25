@@ -29,7 +29,7 @@
   <div class='masthead fill-blue'>
     <div class='fill-darken0 pad1y strong dark'>
       <div class='limiter'>
-        <a href='http://maptime.io/'>maptime.io</a>
+        <a href='http://maptime.io/'>maptime.io</a> | <a href='/about'>about us</a>
       </div>
     </div>
   </div>
@@ -78,22 +78,6 @@
 <script src='{{site.baseurl}}/js/jquery.min.js'></script>
 <script src='{{site.baseurl}}/js/underscore.min.js'></script>
 <script src='{{site.baseurl}}/site.js'></script>
-<script>
-  var rsvp = document.getElementById('rsvpdate');
-  var date,formatted,link;
-  '{% for item in site.categories.event limit:1 %}'
-    date = '{{item.date | date:"%Y,%-m,%-d"}}';
-    formatted = '{{item.date | date:"%A, %b %d %Y"}}';
-    link = '{{item.rsvp}}';
-  '{% endfor %}'
-
-  if (date && new Date().getTime() <= new Date(date).getTime() + (24 * 60 * 60 * 1000)) {
-    rsvp.innerHTML = '<h3>' + formatted + '</h3>' +
-    '<a class="button fill-orange block" href=' + link + '>RSVP</a>';
-  } else {
-    rsvp.innerHTML = '<h3>TBA</h3>';
-  }
-</script>
 
 </body>
 </html>

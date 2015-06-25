@@ -21,7 +21,7 @@
   <div class='masthead fill-blue'>
     <div class='fill-darken0 pad1y strong dark'>
       <div class='limiter'>
-        <a href='http://maptime.io/'>maptime.io</a>
+        <a href='http://maptime.io/'>maptime.io</a> | <a href='/about'>about us</a>
       </div>
     </div>
   </div>
@@ -97,22 +97,6 @@
 <script src='/js/jquery.min.js'></script>
 <script src='/js/underscore.min.js'></script>
 <script src='/site.js'></script>
-<script>
-  var rsvp = document.getElementById('rsvpdate');
-  var date,formatted,link;
-  ''
-    date = '2015,1,8';
-    formatted = 'Thursday, Jan 08 2015';
-    link = 'http://www.meetup.com/MaptimeLA/events/219037895/';
-  ''
-
-  if (date && new Date().getTime() <= new Date(date).getTime() + (24 * 60 * 60 * 1000)) {
-    rsvp.innerHTML = '<h3>' + formatted + '</h3>' +
-    '<a class="button fill-orange block" href=' + link + '>RSVP</a>';
-  } else {
-    rsvp.innerHTML = '<h3>TBA</h3>';
-  }
-</script>
 
 </body>
 </html>
